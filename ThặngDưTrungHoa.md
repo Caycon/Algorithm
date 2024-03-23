@@ -6,4 +6,4 @@ $$x \equiv a_1 \pmod{m_1}$$ $$x \equiv a_2 \pmod{m_2}$$ $$\vdots$$ $$x \equiv a_
 $$\prod_{i=\ 1}^{n} \ m_i$$ $$M_i= \frac{M}{m_i}$$
 - Với: 
 $$y_1 \equiv {M_1}^{-1} \pmod{m_1}$$ $$y_2 \equiv {M_2}^{-1} \pmod{m_2}$$ $$\vdots$$ $$y_n \equiv {M_n}^{-1} \pmod{m_n}$$
-- Khi đó: $x \equiv \sum_{1}^n\ (y_i.M_i.a_i) \pmod{M}$
+- Khi đó: $$x \equiv \sum_{i=\ 1}^{n}\ (y_i.M_i.a_i) \pmod{M}$$
